@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/carriers", {data:[{faqList:[]}],fetch:{"0":{}},mutations:[]});

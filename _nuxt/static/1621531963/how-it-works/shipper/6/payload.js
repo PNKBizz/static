@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/how-it-works/shipper/6", {data:[{}],fetch:{"0":{}},mutations:[]});

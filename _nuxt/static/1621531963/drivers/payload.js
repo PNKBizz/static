@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/drivers", {data:[{}],fetch:{"0":{}},mutations:[]});
