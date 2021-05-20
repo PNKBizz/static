@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/rates", {data:[{tariffs:[],priceReliability:{},pricePrimaryDoc:{}}],fetch:{"0":{}},mutations:[]});
